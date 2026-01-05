@@ -43,7 +43,7 @@ layers:
   - C
   - V
   - B
-  - PgDn
+  - {t: \, s: '|'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - N
   - M
