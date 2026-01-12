@@ -42,9 +42,9 @@ layers:
   - X
   - C
   - V
-  - B
+  - {t: '$$mdi:backspace$$', type: backspace}
   - {t: \, s: '|'}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - B
   - N
   - M
   - {t: ',', s: <}
@@ -58,7 +58,7 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - $$mdi:mouse-left-click-outline$$
   - SCROLL
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - RETURN
   - $$mdi:keyboard-space$$
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
